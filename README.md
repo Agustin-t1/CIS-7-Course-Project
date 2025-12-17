@@ -1,10 +1,9 @@
 # CIS-7-Course-Project
 
-## Description
 This project displays and solves real world travel route problems discrete structures. 
 A solar marketing specialist starts from Riverside and travels to Moreno Valley, Perris, and Hemet 
 to market solar energy packages to homeowners. The program generates all possible routes, calculates 
-total distance and cost for each route, and finds the shortest distance and lowest cost routes.  
+total distance and cost for each route, and finds the shortest distance and lowest cost routes. 
 
 Agustin Tapia
 
